@@ -1,15 +1,6 @@
 ## Hi there, I'm Pablo 👋
 
-Sociologist with a Master's in Computational Social Science from Universidad Carlos III de Madrid.
-Recently finished my thesis on how street cleaning patterns influence voting behavior in Madrid. Previously worked as Research Assistant at CSIC analyzing historical demographic data.
+Doctoral Researcher at Universidad Complutense de Madrid (UCM) in the Department of Geography.
 
-## 💻 Skills
-
-Proficient: R (spatial analysis, data visualization, statistical modeling)  
-Working knowledge: Python, SQL, SPSS, Stata, GIS tools  
-Currently learning: Advanced Python, QGIS, machine learning
-
-## 🎯 Interests
-
-Urban studies, political behavior, computational methods, geospatial analysis, and social network analysis.
-Currently seeking PhD positions and research/analyst roles focused on urban data and computational methods.
+**🔬 Research Focus
+I study green transitions and urban inequalities in the Madrid metropolitan region, examining how climate adaptation policies shape spatial inequalities, employment opportunities, and social cohesion.
